@@ -8,7 +8,18 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/commits/main)
 
-The aim of this project is to establish a foundation for a simple web project that is free from any back-end dependencies and does not rely on JavaScript frameworks and libraries like React, Angular, or Axios, nor CSS frameworks and preprocessors like Tailwind and Sass. Many of these frameworks and libraries were created before native solutions were available. Today, modern HTML, CSS, and JavaScript provide most of this functionality natively without the overhead of third-party dependencies. While this boilerplate may not be suitable for large, complex projects, it serves as a solid foundation for simpler projects, offering a more straightforward and efficient approach without the complexity and learning curve associated with larger frameworks.
+## Project Description
+
+The aim of this project is to establish a foundation for a simple web project that:
+
+- Is free from any back-end dependencies.
+- Does not rely on JavaScript frameworks and libraries such as React, Angular, or Axios.
+- Avoids CSS frameworks and preprocessors like Tailwind and Sass.
+
+Many of these frameworks and libraries were developed before native solutions were available. Today, modern HTML, CSS, and JavaScript provide most of the necessary functionality natively, eliminating the need for third-party dependencies.
+
+While this boilerplate may not be suitable for large, complex projects, it serves as a solid foundation for simpler projects. It offers a more straightforward and efficient approach, avoiding the complexity and learning curve associated with larger frameworks.
+
 
 ## Table of Contents
 
