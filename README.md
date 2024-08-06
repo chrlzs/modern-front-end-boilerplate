@@ -1,5 +1,4 @@
 # Modern Front-End Boilerplate
-[![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/chrlzs/modern-front-end-boilerplate/main.yml?branch=main)](https://github.com/chrlzs/modern-front-end-boilerplate/actions)
 [![License](https://img.shields.io/github/license/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/stargazers)
