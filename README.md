@@ -6,6 +6,7 @@ This project is a modern front-end boilerplate that demonstrates the use of virt
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Contributing](#contributing)
@@ -28,6 +29,44 @@ This project is a modern front-end boilerplate that demonstrates the use of virt
 - The project uses a virtual DOM to efficiently update the UI.
 - It includes an example of using the Intersection Observer API to detect when elements are in view.
 - It fetches data from an external API and dynamically renders it on the page.
+
+## Running the Project
+
+To run the project locally, you can use a simple HTTP server. Here are a few methods:
+
+### Using Python's HTTP Server
+
+If you have Python installed, you can use its built-in HTTP server:
+
+1. Open a terminal in the project directory.
+2. Run the following command:
+    ```sh
+    python -m http.server
+    ```
+3. Open your browser and navigate to `http://localhost:8000`.
+
+### Using Node.js HTTP Server
+
+If you have Node.js installed, you can use the `http-server` package:
+
+1. Install `http-server` globally:
+    ```sh
+    npm install -g http-server
+    ```
+2. Open a terminal in the project directory.
+3. Run the following command:
+    ```sh
+    http-server
+    ```
+4. Open your browser and navigate to the URL provided in the terminal (usually `http://localhost:8080`).
+
+### Using Live Server Extension (Visual Studio Code)
+
+If you are using Visual Studio Code, you can use the Live Server extension:
+
+1. Install the Live Server extension from the VS Code marketplace.
+2. Open the project directory in VS Code.
+3. Right-click on `index.html` and select "Open with Live Server".
 
 ## Project Structure
 
