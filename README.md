@@ -1,5 +1,4 @@
 # Modern Front-End Boilerplate
-
 [![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/chrlzs/modern-front-end-boilerplate/main.yml?branch=main)](https://github.com/chrlzs/modern-front-end-boilerplate/actions)
 [![License](https://img.shields.io/github/license/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/graphs/contributors)
@@ -8,7 +7,6 @@
 [![Issues](https://img.shields.io/github/issues/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/commits/main)
-
 
 The aim of this project is to establish a foundation for a simple web project that is free from any back-end dependencies and does not rely on JavaScript frameworks and libraries like React, Angular, or Axios, nor CSS frameworks and preprocessors like Tailwind and Sass. Many of these frameworks and libraries were created before native solutions were available. Today, modern HTML, CSS, and JavaScript provide most of this functionality natively without the overhead of third-party dependencies. While this boilerplate may not be suitable for large, complex projects, it serves as a solid foundation for simpler projects, offering a more straightforward and efficient approach without the complexity and learning curve associated with larger frameworks.
 
@@ -82,16 +80,13 @@ If you are using Visual Studio Code, you can use the Live Server extension:
 
 modern-front-end-boilerplate/
 ├── css/
-│ └── styles.css
+│   └── styles.css
 ├── js/
-│ ├── components.js
-│ ├── main.js
-│ └── virtualDOM.js
+│   ├── components.js
+│   ├── main.js
+│   └── virtualDOM.js
 ├── index.html
 └── README.md
-
-markdown
-Copy code
 
 - `index.html`: The main HTML file.
 - `css/styles.css`: The stylesheet for the project.
