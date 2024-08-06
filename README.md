@@ -10,7 +10,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/commits/main)
 
 
-This project is a modern front-end boilerplate that demonstrates the use of virtual DOM, Intersection Observer, and Fetch API. It includes a basic setup for rendering components and handling dynamic data fetching.
+The aim of this project is to establish a foundation for a simple web project that is free from any back-end dependencies and does not rely on JavaScript frameworks and libraries like React, Angular, or Axios, nor CSS frameworks and preprocessors like Tailwind and Sass. Many of these frameworks and libraries were created before native solutions were available. Today, modern HTML, CSS, and JavaScript provide most of this functionality natively without the overhead of third-party dependencies. While this boilerplate may not be suitable for large, complex projects, it serves as a solid foundation for simpler projects, offering a more straightforward and efficient approach without the complexity and learning curve associated with larger frameworks.
 
 ## Table of Contents
 
