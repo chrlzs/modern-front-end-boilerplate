@@ -4,24 +4,24 @@ This project is a modern front-end boilerplate that demonstrates the use of virt
 
 ## Table of Contents
 
-- Installation
-- Usage
+- [Installation](#installation)
+- [Usage](#usage)
 - [Project Structure](#project-structure)
-- Features
-- Contributing
-- License
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/chrlzs/modern-front-end-boilerplate.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd modern-front-end-boilerplate
     ```
-3. Open [`index.html`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Findex.html%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\index.html") in your browser to see the project in action.
+3. Open `index.html` in your browser to see the project in action.
 
 ## Usage
 
@@ -31,23 +31,24 @@ This project is a modern front-end boilerplate that demonstrates the use of virt
 
 ## Project Structure
 
-```
-your-repo-name/
+modern-front-end-boilerplate/
 ├── css/
-│   └── styles.css
+│ └── styles.css
 ├── js/
-│   ├── components.js
-│   ├── main.js
-│   └── virtualDOM.js
+│ ├── components.js
+│ ├── main.js
+│ └── virtualDOM.js
 ├── index.html
 └── README.md
-```
 
-- [`index.html`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Findex.html%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\index.html"): The main HTML file.
-- [`css/styles.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Fcss%2Fstyles.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\css\styles.css"): The stylesheet for the project.
-- [`js/components.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Fjs%2Fcomponents.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\js\components.js"): Contains functions for rendering components.
-- [`js/main.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Fjs%2Fmain.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\js\main.js"): The main JavaScript file that initializes the app.
-- [`js/virtualDOM.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2Fjs%2FvirtualDOM.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\js\virtualDOM.js"): Contains functions for creating and diffing the virtual DOM.
+markdown
+Copy code
+
+- `index.html`: The main HTML file.
+- `css/styles.css`: The stylesheet for the project.
+- `js/components.js`: Contains functions for rendering components.
+- `js/main.js`: The main JavaScript file that initializes the app.
+- `js/virtualDOM.js`: Contains functions for creating and diffing the virtual DOM.
 
 ## Features
 
@@ -61,4 +62,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [`LICENSE`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FSource%2Fmodern-front-end-boilerplate%2FLICENSE%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\Source\modern-front-end-boilerplate\LICENSE") file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
