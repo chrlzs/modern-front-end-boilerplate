@@ -1,5 +1,15 @@
 # Modern Front-End Boilerplate
 
+[![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/chrlzs/modern-front-end-boilerplate/main.yml?branch=main)](https://github.com/chrlzs/modern-front-end-boilerplate/actions)
+[![License](https://img.shields.io/github/license/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/stargazers)
+[![Forks](https://img.shields.io/github/forks/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/network/members)
+[![Issues](https://img.shields.io/github/issues/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/chrlzs/modern-front-end-boilerplate)](https://github.com/chrlzs/modern-front-end-boilerplate/commits/main)
+
+
 This project is a modern front-end boilerplate that demonstrates the use of virtual DOM, Intersection Observer, and Fetch API. It includes a basic setup for rendering components and handling dynamic data fetching.
 
 ## Table of Contents
