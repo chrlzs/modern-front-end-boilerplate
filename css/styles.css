@@ -1,0 +1,58 @@
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#app {
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.post {
+    background-color: white;
+    color: black;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post h2 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+}
+
+.post p {
+    margin: 0;
+}
+
+/* CSS Nesting Example */
+.component {
+    font-size: 18px;
+    color: var(--primary-color);
+    
+    &__title {
+        font-weight: bold;
+    }
+    
+    &__content {
+        margin-top: 10px;
+    }
+}
