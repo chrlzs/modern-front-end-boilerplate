@@ -78,6 +78,7 @@ If you are using Visual Studio Code, you can use the Live Server extension:
 
 ## Project Structure
 
+```
 modern-front-end-boilerplate/
 ├── css/
 │   └── styles.css
@@ -87,6 +88,8 @@ modern-front-end-boilerplate/
 │   └── virtualDOM.js
 ├── index.html
 └── README.md
+```
+
 
 - `index.html`: The main HTML file.
 - `css/styles.css`: The stylesheet for the project.
