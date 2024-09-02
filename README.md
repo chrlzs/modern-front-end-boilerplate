@@ -77,7 +77,7 @@ If you have Node.js installed, you can use the `http-server` package:
 
 ### Using Live Server Extension (Visual Studio Code)
 
-If you are using Visual Studio Code, you can use the Live Server extension:
+*If you are using Visual Studio Code, you can use the Live Server extension:
 
 1. Install the Live Server extension from the VS Code marketplace.
 2. Open the project directory in VS Code.
