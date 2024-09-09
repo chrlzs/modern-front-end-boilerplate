@@ -17,7 +17,7 @@ Many of these frameworks and libraries were developed before native solutions we
 While this boilerplate may not be suitable for large, complex projects, it serves as a solid foundation for simpler projects. It offers a more straightforward and efficient approach, avoiding the complexity and learning curve associated with larger frameworks.
 
 
-## Table of Contents
+### Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
